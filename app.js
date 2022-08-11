@@ -1,6 +1,6 @@
-const Load = require ('loadash');
+const Run = "Hello people"
 
-const items = [1,[2,[3,[4]]]]
+const items = [1,2,3,4,5]
 
-const newItems = Load.flattenDeep(items)
-console.log(newItems)
+console.log(Run)
+console.log(items[4])
